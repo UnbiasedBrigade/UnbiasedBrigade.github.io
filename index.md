@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/UnbiasedBrigade/UnbiasedBrigade.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UnbiasedBrigade/UnbiasedBrigade.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1> Welcome to the description </h1>
+<p>
+The first line will have the <b>common name</b> and <i>scientific name</i> i.e. <i>Pretenticus Fisticus</i>, <b>the Pretend Fish</b>.
+The second line will have its size and weight i.e. <b>25-30cm * 25-27cm * 50-53cm</b>, 32-39lb.
+The third will have at least one interesting fact about the fish.
+The fourth and fifth will talk about the fish's habitat and diet.
+</p>
