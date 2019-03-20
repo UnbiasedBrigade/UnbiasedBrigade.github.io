@@ -23,12 +23,15 @@
 <p> <i>Acipenser Gueldenstaedtii</i>, <b>the Russian Sturgeon</b>. </p>
 <p> <b>Up to 235cm.</b>, as an adult, can weigh up to 115kg </p>
 <p> Interesting fact: they are in trouble because their breding spots have been dammed up for hydro-electric power, and because of over-fishing<p>
-<p> habitats: lives in saltwater, breeds in freshwater .diet: __ <p>
+<p> habitats: lives in saltwater, breeds in freshwater in russia, parts of eastern europe, and central asia. diet: Mollusks, fish, crustaceans.<p>
+<p>status: CR (critically endangered)</p>
+  
 <h3>| |</h3>
 
-<p> <i>_</i>, <b>_</b> </p>
-<p> <b>_*_*_</b>, _lb </p>russia, parts of eastern europe, and central asia.
-<p> Interesting fact: _<p>
-<p> habitats: __     diet: __ <p>
+<p> <i>Acipenser Fulvescens</i>, <b>the Lake Sturgeon</b> </p>
+<p> <b>up to 7.25ft long</b>, 108kg </p>
+<p> Interesting fact: They reproduce eevery 4 or 5 years, and are also threatened because their eggs are taken before fertilization and served as caviar.<p>
+<p> habitats: North American warm fresh water. diet: worms, larvae, crayfish, snails. <p>
+<p> status: LC (least concern)</p>
 
-<h2> _____________ </h2> 
+
