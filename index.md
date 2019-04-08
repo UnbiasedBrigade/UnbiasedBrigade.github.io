@@ -58,7 +58,7 @@ Five longitudinal lines of large osseous plates are found on the body of the fis
 <p> <b>up to 15ft  long</b>, over 360kg </p>
 <p class="SturgeonFact"> Rather than having true scales, the Atlantic sturgeon has five rows of bony plates known as scutes. They typically grow to be 6–8ft and no more than 140 kg. Its coloration ranges from bluish-black and olive green on its back to white on its underside.<p>
 
-<p class="aboutSturgeon"> habitats: habitats: The main range of the Atlantic sturgeon is in eastern North America, extending from New Brunswick, Canada, to the eastern coast of Florida, United States. they eat mollusks and crustaceans. <p>
+<p class="aboutSturgeon"> habitats: The main range of the Atlantic sturgeon is in eastern North America, extending from New Brunswick, Canada, to the eastern coast of Florida, United States. they eat mollusks and crustaceans. <p>
 <p> status: NT (Near Threatened)</p>
 
 <h5> Subspecies A. o. desotoi </h5> <p>, <b class="SturgeonName">the Gulf Sturgeon</b> </p></p>
@@ -75,6 +75,25 @@ The historical range is thought to have been from the Suwannee River on the west
 
 
 
+<p> <i>Acipenser baerii</i>, <b class="SturgeonName">the Siberian Sturgeon</b> </p>
+
+<h5 class="SturgeonName"> Subspecies A. b. baerii </h5>
+
+<p> <b> xft  long</b>, ~65kg, The maximum recorded weight was 210 kg</p>
+<p class="SturgeonFact"> Acipenser baerii baerii accounts for 80% of all Siberian sturgeon<p>
+
+<p class="aboutSturgeon"> habitats: Acipenser baerii baerii resides in the Ob River and its tributaries. This subspecies migrates to mouth of the Ob during the winter due to seasonal oxygen deficiency, and swims thousands of kilometers upstream to spawn (breed). they eat mollusks and crustaceans. <p>
+<p class="status"> status: EN (Endangered)</p>
+
+<span><h5> Subspecies A. b. baicalensis </h5> <p>, <b class="SturgeonName">the Baikal Sturgeon</b> </p></p></span>
+
+<p> <b>up to 15ft  long</b>, over 360kg </p>
+<p class="SturgeonFact"> The subspecies Acipenser baerii baicalensis constitutes the other 20% of the population. <br/>
+Not long ago, sturgeons weighing 125 kilograms were not uncommon.<p>
+
+<p class="aboutSturgeon"> habitats: A. b. baicalensis, known as the Baikal sturgeon, is a unique lake form found primarily in the northern end of Lake Baikal and migrates up the Selenga River to spawn. they eat mollusks and crustaceans.  It resides primarily in the northern end of the lake, making considerable movements along the shore, and migrating up the Selenga River to spawn.<p>
+
+<p class="status"> status: EN</p>
 
 
 
