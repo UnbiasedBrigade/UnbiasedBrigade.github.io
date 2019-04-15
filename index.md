@@ -1,10 +1,20 @@
+<span class="topnav">
+  <a class="active" href="#home">Home | </a>
+  <a href="#description">News | </a>
+  <a href="#dividers">Contact | </a>
+  <a href="#sturgeon">About </a>
+</span>
 
+<span id="description">
 <h1><br/><br/><br/><br/> Welcome to the description </h1>
 <p>The first line will have the <b>common name</b> and <i>scientific name</i> i.e. <i>Pretenticus Fisticus</i>, <b>the Pretend Fish</b>.</p>
 <p>The second line will have its length and weight. i.e. <b>50-53cm</b>, 32-39kg.</p>
 <p>The third will have at least one interesting fact about the fish.</p>
 <p>The fourth and fifth will talk about the fish's habitat and diet.</p>
-<h2> dividers </h2>
+</span>
+
+<span id="dividers">
+<h2><br/><br/><br/><br/> dividers </h2>
 
 <h2>___________________</h2>
 
@@ -16,9 +26,9 @@
 
 <h1>_-_-_-_-_-_-_-</h1>
 <p> is the family division </p>
-  
+</span>
 <h1>Primitive Fish:</h1> 
-
+<div id="sturgeon">
 <h2 id="sturgeon"> Sturgeons: </h2>
 <!-- classes status & subspecies are for all fish -->
 <!-- classes for sturgeons:
@@ -107,5 +117,13 @@ Not long ago, sturgeons weighing 125 kilograms were not uncommon.</p>
 <p class="aboutSturgeon">a small North American sturgeon, which can be found in 16 to 19 large river and estuary systems along the Atlantic seaboard from the Saint John River in New Brunswick, Canada, to the St. Johns River in Florida, United States. Populations may be disjunct, evidenced by lack of records in the sea outside the influence of their home river and minimal captures of tagged individuals outside the river in which they were tagged. they eat mollusks and crustaceans. </p>
 <p class="status"> status: VU</p></span>
 
+
+
+
+
+
+
+
+</div>
 
 <h6><br/><br/><br/>information sourced from wikipedia.</h6>
