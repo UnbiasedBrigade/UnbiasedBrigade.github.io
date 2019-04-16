@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<div class="topnav" id="home">
+<div class="topnav">
   <p>
     <a class="active" href="#home">Home |</a> 
     <a href="#description">Description |</a> 
@@ -13,7 +13,19 @@
 </div>
 
 <span id="description">
-<h1><br/><br/><br/><br/> Welcome to the description </h1>
+  <p><br/><br/><br/><br/></p>
+  <div class="topnav">
+  <p>
+    <a href="#home">Home |</a> 
+    <a class="active" href="#description">Description |</a> 
+    <a href="#dividers">dividers |</a> 
+    <a href="#sturgeon">Sturgeon |</a> 
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </p>
+</div>
+  <h1> Welcome to the description </h1>
 <p>The first line will have the <b>common name</b> and <i>scientific name</i> i.e. <i>Pretenticus Fisticus</i>, <b>the Pretend Fish</b>.</p>
 <p>The second line will have its length and weight. i.e. <b>50-53cm</b>, 32-39kg.</p>
 <p>The third will have at least one interesting fact about the fish.</p>
@@ -21,7 +33,19 @@
 </span>
 
 <span id="dividers">
-<h2><br/><br/><br/><br/> dividers </h2>
+  <p><br/><br/><br/><br/></p>
+  <div class="topnav">
+  <p>
+    <a href="#home">Home |</a> 
+    <a href="#description">Description |</a> 
+    <a class="active" href="#dividers">dividers |</a> 
+    <a href="#sturgeon">Sturgeon |</a> 
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </p>
+</div>
+  <h2>dividers </h2>
 
 <h2>___________________</h2>
 
@@ -36,7 +60,19 @@
 </span>
 <h1>Primitive Fish:</h1> 
 <div id="sturgeon">
-<h2 id="sturgeon"> Sturgeons: </h2>
+  <p><br/><br/><br/><br/></p>
+  <div class="topnav">
+  <p>
+    <a href="#home">Home |</a> 
+    <a href="#description">Description |</a> 
+    <a href="#dividers">dividers |</a> 
+    <a class="active" href="#sturgeon">Sturgeon |</a> 
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </p>
+</div>
+<h2> Sturgeons: </h2>
 <!-- classes status & subspecies are for all fish -->
 <!-- classes for sturgeons:
 - SturgeonName,
