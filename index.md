@@ -1,9 +1,16 @@
-<span class="topnav">
-  <a class="active" href="#home">Home | </a>
-  <a href="#description">News | </a>
-  <a href="#dividers">Contact | </a>
-  <a href="#sturgeon">About </a>
-</span>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="topnav" id="home">
+  <p>
+    <a class="active" href="#home">Home |</a> 
+    <a href="#description">Description |</a> 
+    <a href="#dividers">dividers |</a> 
+    <a href="#sturgeon">Sturgeon |</a> 
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </p>
+</div>
 
 <span id="description">
 <h1><br/><br/><br/><br/> Welcome to the description </h1>
