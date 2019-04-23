@@ -16,19 +16,6 @@
 
 <span id="description">
   <p><br/><br/><br/><br/></p>
-  <div class="topnav">
-  <p>
-    <a href="#home">Home |</a> 
-    <a class="active" href="#description">Description |</a> 
-    <a href="#dividers">dividers |</a> 
-    <a href="#sturgeon">Sturgeon |</a> 
-    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-      <div class="menu-icon"></div>
-      <div class="menu-icon"></div>
-      <div class="menu-icon"></div>
-    </a>
-  </p>
-</div>
   <h1> Welcome to the description </h1>
 <p>The first line will have the <b>common name</b> and <i>scientific name</i> i.e. <i>Pretenticus Fisticus</i>, <b>the Pretend Fish</b>.</p>
 <p>The second line will have its length and weight. i.e. <b>50-53cm</b>, 32-39kg.</p>
@@ -38,19 +25,7 @@
 
 <span id="dividers">
   <p><br/><br/><br/><br/></p>
-  <div class="topnav">
-  <p>
-    <a href="#home">Home |</a> 
-    <a href="#description">Description |</a> 
-    <a class="active" href="#dividers">dividers |</a> 
-    <a href="#sturgeon">Sturgeon |</a> 
-    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-      <div class="menu-icon"></div>
-      <div class="menu-icon"></div>
-      <div class="menu-icon"></div>
-    </a>
-  </p>
-</div>
+  
   <h2>dividers </h2>
 
 <h2>___________________</h2>
@@ -67,19 +42,6 @@
 <h1>Primitive Fish:</h1> 
 <div id="sturgeon">
   <p><br/><br/><br/><br/></p>
-  <div class="topnav">
-  <p>
-    <a href="#home">Home |</a> 
-    <a href="#description">Description |</a> 
-    <a href="#dividers">dividers |</a> 
-    <a class="active" href="#sturgeon">Sturgeon |</a> 
-    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-      <div class="menu-icon"></div>
-      <div class="menu-icon"></div>
-      <div class="menu-icon"></div>
-    </a>
-  </p>
-</div>
 <h2> Sturgeons: </h2>
 <!-- classes status & subspecies are for all fish -->
 <!-- classes for sturgeons:
