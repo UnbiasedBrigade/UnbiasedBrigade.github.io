@@ -7,7 +7,9 @@
     <a href="#dividers">dividers |</a> 
     <a href="#sturgeon">Sturgeon |</a> 
     <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-      <i class="fa fa-bars"></i>
+      <div class="menu-icon"></div>
+      <div class="menu-icon"></div>
+      <div class="menu-icon"></div>
     </a>
   </p>
 </div>
@@ -21,7 +23,9 @@
     <a href="#dividers">dividers |</a> 
     <a href="#sturgeon">Sturgeon |</a> 
     <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-      <i class="fa fa-bars"></i>
+      <div class="menu-icon"></div>
+      <div class="menu-icon"></div>
+      <div class="menu-icon"></div>
     </a>
   </p>
 </div>
@@ -41,7 +45,9 @@
     <a class="active" href="#dividers">dividers |</a> 
     <a href="#sturgeon">Sturgeon |</a> 
     <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-      <i class="fa fa-bars"></i>
+      <div class="menu-icon"></div>
+      <div class="menu-icon"></div>
+      <div class="menu-icon"></div>
     </a>
   </p>
 </div>
@@ -68,7 +74,9 @@
     <a href="#dividers">dividers |</a> 
     <a class="active" href="#sturgeon">Sturgeon |</a> 
     <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-      <i class="fa fa-bars"></i>
+      <div class="menu-icon"></div>
+      <div class="menu-icon"></div>
+      <div class="menu-icon"></div>
     </a>
   </p>
 </div>
