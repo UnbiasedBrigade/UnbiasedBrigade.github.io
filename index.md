@@ -105,13 +105,13 @@ The historical range is thought to have been from the Suwannee River on the west
 <span id="baerii">
 <h5 class="subspecies"> Subspecies A. b. baerii </h5>
 
-<p> <b> xft  long</b>, ~65kg, The maximum recorded weight was 210 kg</p>
+<p> <b> 6.5ft  long</b>, ~65kg, The maximum recorded weight was 210 kg</p>
 <p class="SturgeonFact"> Acipenser baerii baerii accounts for 80% of all Siberian sturgeon</p>
 
 <p class="aboutSturgeon"> habitats: Acipenser baerii baerii resides in the Ob River and its tributaries. This subspecies migrates to mouth of the Ob during the winter due to seasonal oxygen deficiency, and swims thousands of kilometers upstream to spawn (breed). they eat mollusks and crustaceans. </p>
 <p class="status"> status: EN (Endangered)</p></span>
 
-<span id="baicalensis"
+<span id="baicalensis">
 <h5 class="subspecies"> Subspecies A. b. baicalensis </h5> <p>, <b class="SturgeonName">the Baikal Sturgeon</b> </p>
 
 <p> <b>up to 15ft  long</b>, over 360kg </p>
@@ -121,11 +121,12 @@ Not long ago, sturgeons weighing 125 kilograms were not uncommon.</p>
 <p class="aboutSturgeon"> habitats: A. b. baicalensis, known as the Baikal sturgeon, is a unique lake form found primarily in the northern end of Lake Baikal and migrates up the Selenga River to spawn. they eat mollusks and crustaceans.  It resides primarily in the northern end of the lake, making considerable movements along the shore, and migrating up the Selenga River to spawn.</p>
 
 <p class="status"> status: EN</p></span></span>
+</span>
 
 <h3>| |</h3>
 <span id="short-nose_sturgeon">
 <p> <i>Acipenser brevirostrum</i>, <b class="SturgeonName">the Shortnose Sturgeon</b> </p>
-<p> <b>mature at 45-55cm</b>, ?kg </p>
+<p> <b>mature at 45-55cm</b>, 9.3kg </p>
 <p class="SturgeonFact"> The species is sometimes mistaken for juvenile Atlantic sturgeon, as adults of this species are similar in size to juveniles of that species. Prior to 1973, U.S. commercial fishing records did not differentiate between the two species, both were reported as "common sturgeon", although it is believed based on sizes that the bulk of the catch was Atlantic sturgeon.<br/></p>
 <p class="aboutSturgeon">a small North American sturgeon, which can be found in 16 to 19 large river and estuary systems along the Atlantic seaboard from the Saint John River in New Brunswick, Canada, to the St. Johns River in Florida, United States. Populations may be disjunct, evidenced by lack of records in the sea outside the influence of their home river and minimal captures of tagged individuals outside the river in which they were tagged. they eat mollusks and crustaceans. </p>
 <p class="status"> status: VU</p></span>
