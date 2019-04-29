@@ -76,6 +76,7 @@ Five longitudinal lines of large osseous plates are found on the body of the fis
                  
 <h3>| |</h3>
 <span id="AtlanticSturgeon">
+  <img alt="atlantic sturgeon" src="https://en.m.wikipedia.org/wiki/File:Acipenser_oxyrinchus_PAQ.jpg" class="fish-pic">
 <p> <i>Acipenser oxyrinchus</i>, <b class="SturgeonName">the Atlantic Sturgeon</b> </p>
 <span id="oxyrinchus">
 <h5 class="subspecies"> Subspecies A. o. oxyrinchus </h5>
