@@ -51,7 +51,9 @@
 
 
 <span id="RussianSturgeon">
+ 
 <p> <i>Acipenser Gueldenstaedtii</i>, <b class="SturgeonName">the Russian Sturgeon</b>. </p>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Waxdick_%28Acipenser_gueldenstaedtii_%29_-_crop.jpg" alt="Russian Sturgeon" width="200"/>
 <p> <b>Up to 235cm.</b>, as an adult, can weigh up to 115kg </p>
 <p class="SturgeonFact"> Interesting fact: they are in trouble because their breding spots have been dammed up for hydro-electric power, and because of over-fishing<p>
 <p class="aboutSturgeon"> habitats: lives in saltwater, breeds in freshwater in russia, parts of eastern europe, and central asia. diet: Mollusks, fish, crustaceans.<p>
@@ -76,7 +78,7 @@ Five longitudinal lines of large osseous plates are found on the body of the fis
                  
 <h3>| |</h3>
 <span id="AtlanticSturgeon">
-  <img alt="atlantic sturgeon" src="https://en.m.wikipedia.org/wiki/File:Acipenser_oxyrinchus_PAQ.jpg" class="fish-pic">
+  
 <p> <i>Acipenser oxyrinchus</i>, <b class="SturgeonName">the Atlantic Sturgeon</b> </p>
 <span id="oxyrinchus">
 <h5 class="subspecies"> Subspecies A. o. oxyrinchus </h5>
@@ -96,7 +98,7 @@ Five longitudinal lines of large osseous plates are found on the body of the fis
 <p class="aboutSturgeon"> habitats:  Critical habitat, reflecting the current range of the subspecies, has been designated (see map).<br/>
 The historical range is thought to have been from the Suwannee River on the western coast of Florida to the Mississippi River, and marine waters of the central and eastern portions of the Gulf of Mexico. they eat mollusks and crustaceans. </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Acipenser_oxyrhynchus_desotoi_2003_critical_habitat.jpg/254px-Acipenser_oxyrhynchus_desotoi_2003_critical_habitat.jpg" />
+
 
 <p class="status"> status: VU (Vulnerable)</p></span></span>
 
